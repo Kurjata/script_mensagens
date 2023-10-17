@@ -1,13 +1,13 @@
 🚀 SendScriptWhatsApp: Porque a vida é melhor com memes! 🚀
 
-Já pensou em surpreender seus amigos ou grupos do WhatsApp enviando o script inteiro de clássicos como "Shrek" ou "Bee Movie"? Agora você pode!
+Já pensou em surpreender seus amigos ou grupos do WhatsApp enviando o script inteiro de clássicos como "Shrek"? Agora você pode!
 
 📜 Como usar? 📜
 
 Escolha seu script preferido:
 
-🟢 Para "Shrek": Abra shrekSendScript.js
-🐝 Para "Bee Movie": Abra beeMovieSendScript.js
+🟢 Para "Shrek": Abra shrek.js
+
 Copie o conteúdo mágico:
 
 Clique em raw para visualizar o código completo.
