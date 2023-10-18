@@ -27,7 +27,7 @@ SHREK
 
 Written by
 
-William Steig & Ted Elliott
+Enjoy
 
 
 
